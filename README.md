@@ -6,7 +6,7 @@
 
   public void AboutMe(){
     var myInfo = {
-      "name": "Gregory Vasquez"
+      "name": "Gregory Vasquez",
       "email": "gregfelipe98@gmail.com"
       // More to be added
   };

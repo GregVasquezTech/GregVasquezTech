@@ -2,14 +2,15 @@
 
 ```C#
   // Why hello there! Welcome to my Github!
-  // Here you can find my learning progress, ranging from variety of tech stack!
+  // Here you can find my learning progress on web design and stuff!
 
-  public void AboutMe(){
+  public void AboutMe() {
     var myInfo = {
       "name": "Gregory Vasquez",
       "email": "gregfelipe98@gmail.com"
       // More to be added
-  };
+    }
+  }
 ```
 
 <br><br> <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
